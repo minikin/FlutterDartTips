@@ -1,4 +1,4 @@
-# Dart / Flutter tips & tricks ⚡️
+# Dart and Flutter tips & tricks ⚡️
 
 One of the things I really love about Dart and Flutter is how I keep finding interesting ways to use it in various situations, 
 and when I do - I usually share them on [Twitter](https://twitter.com/minikin). 
